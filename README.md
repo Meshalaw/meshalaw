@@ -1,16 +1,20 @@
-## Hi there 👋
+### Meshal Alawwad
 
-<!--
-**Meshalaw/meshalaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Not a programmer. Ships anyway.**
 
-Here are some ideas to get you started:
+Product manager by day. By night I run **[Falcon Blade](https://falconblade.studio)** —
+an independent Saudi studio making small games, made properly, in Arabic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🎮 Games
+
+| | Status | |
+|---|---|---|
+| **سياق — Siyaaq** | 🟢 Live worldwide | The Arabic daily word game — guess the secret word by *meaning*. Arabic embeddings + LLM re-ranking under the hood. **[Play](https://siyaaq.me)** · **[Google Play](https://play.google.com/store/apps/details?id=com.siyaaq.app)** |
+| **قفل — Qufl** | 🟡 In development | A lock-picking arcade game — time your pick, beat the clock. |
+| **خط واحد — Khat Wahid** | 🟡 In development | A real-time survival story: guide a man lost in the Empty Quarter through his only line out. |
+
+---
+
+Built with more stubbornness than syntax. Follow the games: **[@playsiyaaq](https://x.com/playsiyaaq)**
