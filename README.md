@@ -1,6 +1,6 @@
 ### Meshal Alawwad
 
-**Not a programmer. Ships anyway.**
+**A hobbyist who ships.**
 
 Product manager by day. By night I run **[Falcon Blade](https://falconblade.studio)** —
 an independent Saudi studio making small games, made properly, in Arabic.
